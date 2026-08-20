@@ -68,24 +68,24 @@
 <img width="1229" height="814" alt="image" src="https://github.com/user-attachments/assets/d8906c19-e7df-4cf4-b756-73875215a058" />
 
 ## KEY INSIGHTS
-	Attendance participation is 94.17% excluding leave data, showing the most employees have regular attendance without absent in a single day.
-	Engineering has the highest number of Present records 15334 and also the highest leave count 762 days with three months along with highest overtime 3490 hours much higher than other departments.
-	Sales has the second-highest overtime 1371 hours, indicating a possible higher workload.
-	Data Science and Operations show higher early-exit levels with average early exits of around 29 minutes.
-	Design and Data Science have the highest average late-arrival times around 12 mins.
-	Total recorder leave is 2635 days, with Engineering contributing the largest share.
-	Employees work an average of 7.72 hours per day, providing a useful benchmark for workforce productivity.
+### 	Attendance participation is 94.17% excluding leave data, showing the most employees have regular attendance without absent in a single day.
+### 	Engineering has the highest number of Present records 15334 and also the highest leave count 762 days with three months along with highest overtime 3490 hours much higher than other departments.
+### 	Sales has the second-highest overtime 1371 hours, indicating a possible higher workload.
+### 	Data Science and Operations show higher early-exit levels with average early exits of around 29 minutes.
+### 	Design and Data Science have the highest average late-arrival times around 12 mins.
+### 	Total recorder leave is 2635 days, with Engineering contributing the largest share.
+### 	Employees work an average of 7.72 hours per day, providing a useful benchmark for workforce productivity.
 ---
 
 ## RECOMMENDATIONS
-	Investigate the high overtime levels in Engineering and Sales to identify workload issues. Additionally provide some rewards or benefits for those employees who work overtime.
-	Investigate repeated late arrivals and early exits in departments such as Data Science.
-	Monitor leave patterns in Engineering and check whether workload is contributing to higher leave usage.
-	Compare working hours and productive hours to identify where employees may be spending time without corresponding productive output.
-	 Use monthly attendance trends regularly to identify changes early and support better workforce planning.
-	Investigate the reasons why employees don’t show punctuality to follow the timings. 
+### 	Investigate the high overtime levels in Engineering and Sales to identify workload issues. Additionally provide some rewards or benefits for those employees who work overtime.
+### 	Investigate repeated late arrivals and early exits in departments such as Data Science.
+### 	Monitor leave patterns in Engineering and check whether workload is contributing to higher leave usage.
+### 	Compare working hours and productive hours to identify where employees may be spending time without corresponding productive output.
+### 	 Use monthly attendance trends regularly to identify changes early and support better workforce planning.
+### 	Investigate the reasons why employees don’t show punctuality to follow the timings. 
 ---
 
 ## CONCLUSION
 ### The Attendance Analysis provides management with a consolidated view of employee attendance, punctuality, overtime and leave patterns to check workforce efficiency.
-It helps to identify departments that require closer monitoring and supports better workforce planning and resource allocation.
+### It helps to identify departments that require closer monitoring and supports better workforce planning and resource allocation.
