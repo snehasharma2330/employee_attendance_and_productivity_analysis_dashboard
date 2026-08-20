@@ -7,13 +7,13 @@
 ---
 
 ## BUSINESS PROBLEMS
-•	Which departments have the highest number of present and leave records?
-•	Which departments experience higher late arrivals and early exits?
-•	Which departments have the highest overtime hours?
-•	How does workforce productivity vary across departments?
-•	Which leave types are used most frequently?
-•	How does attendance change overtime?
-•	Which departments require closer HR monitoring?
+### •	Which departments have the highest number of present and leave records?
+### •	Which departments experience higher late arrivals and early exits?
+### •	Which departments have the highest overtime hours?
+### •	How does workforce productivity vary across departments?
+### •	Which leave types are used most frequently?
+### •	How does attendance change overtime?
+### •	Which departments require closer HR monitoring?
 ---
 ## TOOLS USED
 •	Microsoft Excel
@@ -27,13 +27,13 @@
 <img width="1209" height="610" alt="image" src="https://github.com/user-attachments/assets/5f116bba-701b-469b-9691-a807afd1023e" />
 
 ## KEY KPIs
-•	Total Employees
-•	Attendance Participation
-•	Present Days
-•	Leave Days
-•	Avg Productive hours
-•	Total Overtime
-*Attendance Participation % is calculated using Present and Hald-Day records, while approved leave is excluded from the calculation.
+### •	Total Employees
+### •	Attendance Participation
+### •	Present Days
+### •	Leave Days
+### •	Avg Productive hours
+### •	Total Overtime
+### *Attendance Participation % is calculated using Present and Hald-Day records, while approved leave is excluded from the calculation.
 ---
 ## DASHBOARD ANALYSIS
 ### 1. Attendance Overview
